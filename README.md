@@ -29,4 +29,7 @@ And here is closest match it found:<br/>
 And upscaled version:<br/>
 ![image](https://user-images.githubusercontent.com/103208695/180892553-8df0b9b9-535f-474a-b6e9-c3c4ff1fffc5.png)
 
-This is still work in progress but its definitely a fun project to work on
+If we overlay those two images we will understand the reasoning behind machines choise, apperently this is the closest matching image:<br/>
+![image](https://user-images.githubusercontent.com/103208695/180893771-25954beb-b382-4f62-9b6d-4de9d110446d.png)
+
+This is still work in progress but its definitely a fun project to work on!
