@@ -1,4 +1,4 @@
-# Pixeleted Font Generator (work in progress)
+# Pixelated Font Generator (work in progress)
 ## Generating automatically full Unicode pixeleted font
 
 Recently I made a full font family called [Pixie](https://kkmp4.gumroad.com/l/pixie), its main idea was to be the smallest readable font and although I think I succseeded at that task, idea never left that that font does not include full Unicode table, plus where are my guarantees that those pixelated shapes are truly the best way to represent corresponding glyph?
